@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d98bd50-7f06-40d3-b061-8440e3209265" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/fdpro/talks/functionaljava/BehaviourParameterization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fdpro/talks/functionaljava/BehaviourParameterization.java" afterDir="false" />
-    </list>
+    <list default="true" id="9d98bd50-7f06-40d3-b061-8440e3209265" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +180,7 @@
       <workItem from="1564032741601" duration="3560000" />
       <workItem from="1564068492206" duration="7316000" />
       <workItem from="1564223576707" duration="890000" />
-      <workItem from="1573293672679" duration="3676000" />
+      <workItem from="1573293672679" duration="3996000" />
     </task>
     <servers />
   </component>
