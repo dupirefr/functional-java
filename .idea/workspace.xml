@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d98bd50-7f06-40d3-b061-8440e3209265" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fdpro/trainings/functionaljava/Comparatorss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fdpro/trainings/functionaljava/Comparatorss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fdpro/trainings/functionaljava/Optionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fdpro/trainings/functionaljava/Optionals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fdpro/trainings/functionaljava/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fdpro/trainings/functionaljava/Streams.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1NgDEa55YgnpLJwoKI5y6ursD8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fdpro.trainings.functionaljava.model" />
+      <recent name="com.fdpro.trainings.functionaljava" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.fdpro.trainings.functionaljava" />
+      <recent name="com.fdpro.trainings.functionaljava.examples.functionalinterfaces" />
+      <recent name="com.fdpro.trainings.functionaljava.examples" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fdpro.trainings.functionaljava" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Streams">
+    <configuration name="Comparatorss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdpro.trainings.functionaljava.Comparatorss" />
+      <module name="functional-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdpro.trainings.functionaljava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaces_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdpro.trainings.functionaljava.FunctionalInterfaces_Consumer" />
+      <module name="functional-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdpro.trainings.functionaljava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaces_Supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdpro.trainings.functionaljava.FunctionalInterfaces_Supplier" />
+      <module name="functional-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdpro.trainings.functionaljava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Optionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdpro.trainings.functionaljava.Optionals" />
+      <module name="functional-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdpro.trainings.functionaljava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdpro.trainings.functionaljava.Streams" />
+      <module name="functional-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdpro.trainings.functionaljava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.Comparatorss" />
+        <item itemvalue="Application.Optionals" />
+        <item itemvalue="Application.FunctionalInterfaces_Supplier" />
+        <item itemvalue="Application.FunctionalInterfaces_Consumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d98bd50-7f06-40d3-b061-8440e3209265" name="Default Changelist" comment="" />
+      <created>1559493250822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559493250822</updated>
+      <workItem from="1559493254882" duration="3076000" />
+      <workItem from="1561563551772" duration="24893000" />
+      <workItem from="1561736451145" duration="8889000" />
+      <workItem from="1561825043682" duration="7312000" />
+      <workItem from="1562175815129" duration="1224000" />
+      <workItem from="1562493747560" duration="620000" />
+      <workItem from="1562500379270" duration="41000" />
+      <workItem from="1564032741601" duration="3560000" />
+      <workItem from="1564068492206" duration="7316000" />
+      <workItem from="1564223576707" duration="890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FunctionalInterfaces_Consumer_givenPeople_whenConsumePeopleInfo_PrintNamesAndGather_thenNamesPrintedAndResult - 2019.06.29 at 16h 01m 29s.xml">
+      <configuration name="FunctionalInterfaces_Consumer.givenPeople_whenConsumePeopleInfo_PrintNamesAndGather_thenNamesPrintedAndResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalInterfaces_Supplier_givenPeople_whenGiveAges_thenResult - 2019.06.29 at 16h 05m 37s.xml">
+      <configuration name="FunctionalInterfaces_Supplier.givenPeople_whenGiveAges_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleNames_thenResult - 2019.06.29 at 17h 36m 23s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleNames_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleNames_thenResult - 2019.06.29 at 17h 59m 09s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleNames_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleAges_thenResult - 2019.06.29 at 18h 00m 14s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleAges_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleInfo_Names_thenResult - 2019.06.29 at 18h 05m 38s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleInfo_Names_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleInfo_Ages_thenResult - 2019.06.29 at 18h 05m 44s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleInfo_Ages_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleInfoWithFunction_Ages_thenResult - 2019.06.29 at 18h 08m 30s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleInfoWithFunction_Ages_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleInfoWithFunction_Ages_Lambda_thenResult - 2019.06.29 at 18h 11m 09s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleInfoWithFunction_Ages_Lambda_thenResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalProgramming_givenPeople_whenGetPeopleInfoWithFunction_Ages_MethodReference_thenResult - 2019.06.29 at 18h 11m 12s.xml">
+      <configuration name="FunctionalProgramming.givenPeople_whenGetPeopleInfoWithFunction_Ages_MethodReference_thenResult" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>functional-java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Java 8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
