@@ -1,6 +1,6 @@
 theme            : template
 
-theme-background : [ "linear-gradient(100deg, 3A3A39 90%, #FAA300 10%)" ]
+theme-background : [ "linear-gradient(100deg, #3A3A39 90%, #FAA300 10%)" ]
 theme-headline   : [ "Montserrat", "#FAA300", "none" ]
 theme-byline     : [ "Montserrat", "#111111", "none" ]
 theme-text       : [ "Raleway", "#333", "none" ]
