@@ -10,6 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 class BehaviourParameterization {
     private static List<Vehicle> createVehicles() {
+        // tag:vehicles-list
         return List.of(
           new Car("BMW", "X1"),
           new MotorCycle("Yamaha", ""),
@@ -17,6 +18,7 @@ class BehaviourParameterization {
           new BiCycle("BMX", ""),
           new Car("Hyundai", "")
         );
+        // end:vehicles-list
     }
 
     @Nested

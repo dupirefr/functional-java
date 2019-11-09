@@ -6,7 +6,10 @@
 * Working at Formatech New Technologies (Belgium)
 * @dupire_francois
 
----?gist=dupirefr/35f619b75bfe809aa86b85fc1aece1cd&lang=java
+---
+## Functional Programming?
++++
 @snap[north span-100]
 #### List of vehicles
 @snapend
+@code[java](src/test/java/com/fdpro/talks/functionaljava/BehaviourParameterization.java&tags=vehicles-list)
