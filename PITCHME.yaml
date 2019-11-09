@@ -2,9 +2,9 @@ theme            : template
 
 theme-background : [ "linear-gradient(100deg, #3A3A39 90%, #FAA300 10%)" ]
 theme-headline   : [ "Montserrat", "#FAA300", "none" ]
-theme-byline     : [ "Montserrat", "#111111", "none" ]
-theme-text       : [ "Raleway", "#333", "none" ]
-theme-links      : [ "#F0EBD8", "#0074D9" ]
+theme-byline     : [ "Montserrat", "#FAA300", "none" ]
+theme-text       : [ "Raleway", "#F0EBD8", "none" ]
+theme-links      : [ "#F0EBD8" ]
 theme-controls   : [ "#F0EBD8" ]
 theme-code       : [ "Victor Mono Italic" ]
 
